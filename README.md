@@ -3,7 +3,7 @@
 <h1 align="center"> Primeiro Projeto Tela Login  </h1>
 
 <h1>
-    <img width="965px" src="src/image/img.PNG" alt="Foto da tela">
+    <img  src="src/image/img.PNG" alt="Foto da tela">
 </h1>
 
  
