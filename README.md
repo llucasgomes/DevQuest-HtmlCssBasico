@@ -6,7 +6,7 @@
     <img width="965px" src="src/image/img.PNG" alt="Foto da tela">
 </h1>
 
- 
+ <a href="https://llucasgomes.github.io/DevQuest-HtmlCssBasico/" target="_blank" >Click para Aqui</a>
 # Indice
 
 - [Sobre](#-sobre)
